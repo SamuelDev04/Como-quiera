@@ -5,8 +5,10 @@
       
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
-        <li class="header">#</li>
-        <li class="active">
+        <!-- <li class="header">#</li> 
+        Necesario activar las 3 siguientes clases
+        -->
+        <li class="">
           <a href="index.php?ruta=aprendiz">
             <i class="fa fa-dashboard"></i> <span>Aprendiz 😫</span>
           </a>

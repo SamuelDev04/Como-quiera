@@ -1,5 +1,5 @@
 <?php
-    //Controler
+    //Controller
     require_once("controller/userController.php");
     require_once("controller/plantController.php");
 
