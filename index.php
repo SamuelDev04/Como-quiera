@@ -1,4 +1,5 @@
 <!-- PROFESOR -->
+<!-- Modifique pues bobo tan bobo -->
 <?php
     //Controller
     require_once("controller/userController.php");
@@ -11,7 +12,7 @@
     //Conexion
     require_once("model/conexion.php");
 
-    //Arranque
+    <!--//Arranque
     $objArranque = new Planti();
     $objArranque -> getIntro();
     
