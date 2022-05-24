@@ -11,13 +11,13 @@
             <i class="fa fa-dashboard"></i> <span>Aprendiz 😫</span>
           </a>
         </li>
-        <li class="">
+        <li class="disabled">
           <a href="index.php?ruta=matricula">
             <i class="fa fa-files-o"></i>
             <span>Matricula 😀</span>
           </a>
         </li>
-        <li class="">
+        <li class="active">
           <a href="index.php?ruta=usuario">
             <i class="fa fa-user"></i>
             <span>Usuarios 🥵</span>
@@ -29,3 +29,5 @@
   </aside>
 
   <div id="ohsnap"></div>
+
+  <!-- Soy el aprendiz -->
