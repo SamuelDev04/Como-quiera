@@ -5,19 +5,24 @@
       
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
-        <li class="header">#</li>
-        <li class="active">
+        <!-- <li class="header">#</li> 
+        Necesario activar las 3 siguientes clases
+        -->
+        <li class="">
           <a href="index.php?ruta=aprendiz">
             <i class="fa fa-dashboard"></i> <span>Aprendiz 😫</span>
           </a>
         </li>
+        <li class="active">
+
         <li class="">
+
           <a href="index.php?ruta=matricula">
             <i class="fa fa-files-o"></i>
             <span>Matricula 😀</span>
           </a>
         </li>
-        <li class="">
+        <li class="active">
           <a href="index.php?ruta=usuario">
             <i class="fa fa-user"></i>
             <span>Usuarios 🥵</span>
@@ -29,3 +34,6 @@
   </aside>
 
   <div id="ohsnap"></div>
+
+  <!-- Soy el aprendiz -->
+

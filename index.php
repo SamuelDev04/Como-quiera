@@ -1,5 +1,5 @@
 <?php
-    //Controler
+    //Controller
     require_once("controller/userController.php");
     require_once("controller/plantController.php");
 
@@ -15,5 +15,10 @@
     $objArranque -> getIntro();
     
 ?>
+
 <!-- Qué le dijo un perro a otro
 Guau jeje -->
+<!-- Yo estaba contigo perreando 
+Esto no debe estar aqui
+-->
+
