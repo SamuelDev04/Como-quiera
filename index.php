@@ -15,6 +15,10 @@
     $objArranque -> getIntro();
     
 ?>
+
+<!-- Qué le dijo un perro a otro
+Guau jeje -->
 <!-- Yo estaba contigo perreando 
 Esto no debe estar aqui
 -->
+
