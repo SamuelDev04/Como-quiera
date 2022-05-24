@@ -1,4 +1,5 @@
 <!-- APRENDIZ -->
+<!-- que chimba el vicio -->
 <?php
 
     class Conexion{

@@ -1,6 +1,7 @@
 <!-- APRENDIZ -->
+<!-- Modifique pues bobo tan bobo -->
 <?php
-    //Controler
+    //Controller
     require_once("controller/userController.php");
     require_once("controller/plantController.php");
 
@@ -11,8 +12,15 @@
     //Conexion
     require_once("model/conexion.php");
 
-    //Arranque
+    <!--//Arranque
     $objArranque = new Planti();
     $objArranque -> getIntro();
     
 ?>
+
+
+<!-- Qué le dijo un perro a otro
+Guau jeje -->
+<!-- Yo estaba contigo perreando 
+Esto no debe estar aqui
+-->
