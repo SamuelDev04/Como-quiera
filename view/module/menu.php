@@ -14,6 +14,9 @@
           </a>
         </li>
         <li class="active">
+
+        <li class="">
+
           <a href="index.php?ruta=matricula">
             <i class="fa fa-files-o"></i>
             <span>Matricula 😀</span>
@@ -30,6 +33,7 @@
     <!-- /.sidebar -->
   </aside>
 
-  <div id="ohsnap"></div>1
+  <div id="ohsnap"></div>
 
-  <!-- Tres activados -->
+  <!-- Soy el aprendiz -->
+
