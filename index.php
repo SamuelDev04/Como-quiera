@@ -15,3 +15,6 @@
     $objArranque -> getIntro();
     
 ?>
+<!-- Yo estaba contigo perreando 
+Esto no debe estar aqui
+-->
